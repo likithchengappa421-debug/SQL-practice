@@ -8,3 +8,6 @@ CONSTRAINT pk_cars PRIMARY KEY (Sl_no)
 
 ALTER TABLE cars
 ADD MIles INT NOT NULL
+
+ALTER TABLE cars
+DROP column Color
