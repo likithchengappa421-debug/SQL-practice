@@ -11,3 +11,5 @@ ADD MIles INT NOT NULL
 
 ALTER TABLE cars
 DROP column Color
+
+DROP TABLE cars
