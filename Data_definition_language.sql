@@ -1,5 +1,3 @@
-**data definition language - Create, Alter, Drop**
-
 CREATE TABLE cars (
 Sl_no INT NOT NULL,
 Car_Name VARCHAR (50) NOT NULL,
