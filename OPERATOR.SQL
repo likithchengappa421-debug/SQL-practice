@@ -1,0 +1,5 @@
+SELECT *
+FROM EMPLOYEES 
+WHERE salary>=45000 AND salary<=70000;
+/*BETWEEN operator*/
+
