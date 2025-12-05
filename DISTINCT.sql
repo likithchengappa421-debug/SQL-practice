@@ -1,0 +1,3 @@
+USE AdventureWorksDW2022
+SELECT DISTINCT EnglishEducation
+FROM DimCustomer
